@@ -1,4 +1,4 @@
-# HITS-PageRank Algorithm
+# HITS and PageRank Algorithm
 Java Implementation for HITS and PageRank Algorithms.
 
 # Usage
